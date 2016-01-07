@@ -1,0 +1,13 @@
+body {
+	background-color: #77DD77;
+}
+li {
+	background-color: #AEC6CF;
+}
+a {
+	color: #321414;
+}
+a:hover {
+	color: #4B0082;
+	background-color: #C23B22;
+}
